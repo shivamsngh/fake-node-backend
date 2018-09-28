@@ -1,0 +1,5 @@
+
+{
+    "connectionString": "mongodb://localhost/fake-node-backend-api",
+    "secret": "CaptainSparrrowIs1ucky@3rench6ar"
+}
